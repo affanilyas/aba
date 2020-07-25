@@ -1,0 +1,7 @@
+Mirror in progress since Mon, 20 Jul 2020 21:03:47 .. please wait!
+winhttrack http://medicare.bold-themes.com/clinic -O "/Users/bo4/websites/aba" -Y -%v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=17023
+UID=501
+GID=501
+START=1595253827

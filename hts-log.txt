@@ -1,0 +1,17 @@
+HTTrack3.49-2 launched on Mon, 20 Jul 2020 21:03:47 at http://medicare.bold-themes.com/clinic
+(winhttrack http://medicare.bold-themes.com/clinic -O "/Users/bo4/websites/aba" -Y -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:03:49	Warning: 	File not parsed, looks like binary: medicare.bold-themes.com/robots.txt
+21:08:09	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from medicare.bold-themes.com/clinic)
+21:08:10	Warning: 	Note: due to s.w.org remote robots.txt rules, links beginning with these path will be forbidden: /search, /support/rss, /archive/, /?filters (see in the options to disable this)
+21:08:10	Warning: 	Moved Permanently for s.w.org/
+21:08:10	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+21:13:19	Error: 	"Bad Request" (400) at link medicare.bold-themes.com/clinic/wp-admin/admin-ajax.php (from medicare.bold-themes.com/clinic)
+21:13:22	Warning: 	Found for https://www.facebook.com/boldthemes/
+21:13:22	Warning: 	File has moved from https://www.facebook.com/boldthemes/ to https://web.facebook.com/boldthemes/?_rdc=1&_rdr
+21:21:21	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): medicare.bold-themes.com/clinic/wp-content/themes/medicare/bold-page-builder/content_elements_misc/css/bt_bb_before_after.css?ver=5.2.4
